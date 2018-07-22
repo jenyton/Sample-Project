@@ -7,6 +7,6 @@ check()
 
 print "Deleting the function say_hello()"
 del say_hello
-###Function can be used as an object and that can be passed to another object
+###Functions are the object that can be passed to another object
 print "Calling the deleted function using the assigned word"
 check()
